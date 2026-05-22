@@ -1,0 +1,6 @@
+com\smartcare\clinic\model\Appointment.class
+com\smartcare\clinic\security\TokenService.class
+com\smartcare\clinic\service\DoctorService.class
+com\smartcare\clinic\model\Doctor.class
+com\smartcare\clinic\repository\PatientRepository.class
+com\smartcare\clinic\service\AppointmentService.class
